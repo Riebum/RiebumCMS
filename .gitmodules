@@ -1,0 +1,12 @@
+[submodule "Base"]
+	path = Base
+	url = https://github.com/Riebum/Base.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Riebum/Frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Riebum/Backend.git
+[submodule "CommonPlugins"]
+	path = CommonPlugins
+	url = https://github.com/Riebum/CommonPlugins.git
